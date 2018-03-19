@@ -1,0 +1,27 @@
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Blank Game.exe
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Blank Game.pdb
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.xml
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\C#\Project\01 Blank Game\Blank Game\obj\x86\Debug\crawl.csprojResolveAssemblyReference.cache
+H:\C#\Project\01 Blank Game\Blank Game\obj\x86\Debug\crawl.csproj.CoreCompileInputs.cache
+H:\C#\Project\01 Blank Game\Blank Game\obj\x86\Debug\Blank Game.exe
+H:\C#\Project\01 Blank Game\Blank Game\obj\x86\Debug\Blank Game.pdb
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Disciplesmall.xnb
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\dummywall.xnb
+H:\C#\Project\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\mage_bullet.xnb

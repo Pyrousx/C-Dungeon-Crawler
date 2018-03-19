@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/C#/Project/01 Blank Game/Blank Game/Content/Disciplesmall.png</File>
+    <File>H:/C#/Project/01 Blank Game/Blank Game/Content/dummywall.png</File>
+    <File>H:/C#/Project/01 Blank Game/Blank Game/Content/mage_bullet.png</File>
+  </SourceFiles>
+</SourceFileCollection>
